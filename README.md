@@ -15,7 +15,7 @@ I recently graduated from [Universitas Negeri Surabaya](https://unesa.ac.id/) wi
 <td width="50%" valign="top">
 
 ### Developer Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwindcss,laravel,php,mysql,react,nextjs,nestjs,nodejs,py,vue,anaconda,docker,git,vscode,sublime,postman,adonis&perline=5&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,tailwindcss,laravel,php,mysql,react,nextjs,nestjs,nodejs,py,vue,anaconda,firebase,docker,git,vscode,sublime,postman,adonis&perline=5&theme=light)](https://skillicons.dev)
 
 
 </td>
